@@ -1,12 +1,3 @@
---[[
-----------------------------------------------------------
-Open Broadcaster Software®️
-OBS > Tools > Scripts
-@midnight-studios
-Stopwatch
-----------------------------------------------------------
-]]
---Globals
 obs           				= obslua
 gversion 					= "3.4"
 luafile						= "StopWatch.lua"
